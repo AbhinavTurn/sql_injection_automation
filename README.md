@@ -1,4 +1,4 @@
-python3 sqli_scanner.py -u http://example.com -p payloads.txt --timeout 30
+python3 sqli.py -u http://example.com -p payloads.txt --timeout 30
 
 **Comprehensive Logging System:**
 
